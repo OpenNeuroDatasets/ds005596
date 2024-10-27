@@ -1,0 +1,8 @@
+{
+	"Name":"A naturalistic fMRI dataset in response to puclic speaking",
+	"BIDSVersion":"1.0.0",
+	"Authors":[
+		"Bolong Wang","XuanXuan Zhang","Xiangzhen Kong"
+		],
+	"DatasetType":"raw"
+}
